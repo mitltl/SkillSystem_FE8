@@ -18,7 +18,7 @@
     #include "EngineHacks/_MasterHackInstaller.event"
     MESSAGE Used hax space ends at currentOffset
 
-    //BWS
+    //BWS LTF
     #include "LazberianTurnFlow/LazberianTurnFlow.event"	
     MESSAGE Used free space ends at currentOffset
 #else
